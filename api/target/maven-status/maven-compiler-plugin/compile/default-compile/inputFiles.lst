@@ -1,0 +1,10 @@
+/home/shivang/maggi/api/src/main/java/org/openmrs/module/maggi/dataintegrity/IncompleteARTInformation.java
+/home/shivang/maggi/api/src/main/java/org/openmrs/module/maggi/api/dao/MaggiDao.java
+/home/shivang/maggi/api/src/main/java/org/openmrs/module/maggi/dataintegrity/BasePatientRuleDefinition.java
+/home/shivang/maggi/api/src/main/java/org/openmrs/module/maggi/api/MaggiService.java
+/home/shivang/maggi/api/src/main/java/org/openmrs/module/maggi/Item.java
+/home/shivang/maggi/api/src/main/java/org/openmrs/module/maggi/api/impl/MaggiServiceImpl.java
+/home/shivang/maggi/api/src/main/java/org/openmrs/module/maggi/MaggiConfig.java
+/home/shivang/maggi/api/src/main/java/org/openmrs/module/maggi/MaggiActivator.java
+/home/shivang/maggi/api/src/main/java/org/openmrs/module/maggi/dataintegrity/IncompleteExposedInfantInformation.java
+/home/shivang/maggi/api/src/main/java/org/openmrs/module/maggi/dataintegrity/InvalidARTEncounters.java

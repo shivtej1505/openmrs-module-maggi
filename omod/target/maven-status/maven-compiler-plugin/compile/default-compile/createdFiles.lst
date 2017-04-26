@@ -1,0 +1,3 @@
+org/openmrs/module/maggi/web/controller/MaggiController.class
+org/openmrs/module/maggi/extension/html/AdminList.class
+org/openmrs/module/maggi/fragment/controller/UsersFragmentController.class
